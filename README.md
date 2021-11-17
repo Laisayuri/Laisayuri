@@ -7,16 +7,11 @@ Meu nome é a Lais Sayuri
 * 📧    Contate-me por e-mail: lais.yasunaka@gmail.com
 * Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mas gosto tudo isso!  
 
-<div> 
-  <a href="https://www.linkedin.com/in/lais-yasunaka-64a87750/" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" /> 
-  
-  <a href="https://www.linkedin.com/in/lais-yasunaka-64a87750/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  
-  <a href:"mailto:lais.yasunaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" />
-    
-</div>
+<div style="display: inline_block"><br/>    
+    <a href="https://www.linkedin.com/in/lais-yasunaka-64a87750/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href = "mailto:lais.yasunaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/Laisayuri"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_bank" /></a>
+</div></br>
   
   <div>
     <a href="https://beacons.ai/laisayuri">
