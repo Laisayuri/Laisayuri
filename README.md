@@ -12,7 +12,10 @@ Meu nome é a Lais Sayuri
     <a href = "mailto:lais.yasunaka@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://github.com/Laisayuri"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_bank" /></a>
 </div></br>
-  
+
+  ![stapler-staple](https://user-images.githubusercontent.com/83554166/142280771-afd15993-1265-4672-9117-518c1c5d3a07.gif) 
+
+    
   <div>
     <a href="https://beacons.ai/laisayuri">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laisayuri&show_icons=true&theme=dracula"&include_all_commits=true&count_private=true" />
