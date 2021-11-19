@@ -6,7 +6,7 @@ Meu nome é a Lais Sayuri
 * 📚    Atualmente estou estudando Transcript 
 * 📧    Contate-me por e-mail: lais.yasunaka@gmail.com
 
-#### Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mas gosto tudo isso!  
+#### Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais gosto tudo isso!  
 
 <div style="display: inline_block"><br/>    
     <a href="https://www.linkedin.com/in/lais-yasunaka-64a87750/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
