@@ -17,10 +17,10 @@ Meu nome é a Lais Sayuri
   ![stapler-staple](https://user-images.githubusercontent.com/83554166/142280771-afd15993-1265-4672-9117-518c1c5d3a07.gif) 
 
     
-  <div>
-<a href="https://github.com/Laisayuri">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/Laisayuri&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?Laisayuri-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div>
+    <a href="https://github.com/seu-usuário-aqui">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laisayuri&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laisayuri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
     
