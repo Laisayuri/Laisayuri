@@ -2,8 +2,8 @@
 
 Meu nome é a Lais Sayuri 
 * 🇧🇷    Moro em capital São Paulo/SP
-* 👩🏻‍💻    Atualmente estou trabalhando com Front End �
-* 📚    Atualmente estou estudando Transcript 
+* 👩🏻‍💻    Atualmente estou trabalhando com Front End 
+* 📚    Atualmente estou estudando o VSC - Visual Studio Code
 * 📧    Contate-me por e-mail: lais.yasunaka@gmail.com
 
 #### Sou iniciante no universo da programação e quanto mais eu aprendo e passo raiva, mais gosto tudo isso!  
